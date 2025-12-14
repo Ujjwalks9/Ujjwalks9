@@ -13,6 +13,13 @@ I enjoy solving real engineering problems—optimizing inference latency, design
 ---
 
 ## 🔥 Featured Projects
+
+### **🪐 ResPlanet – AI-Powered Research Collaboration Platform**
+A full-stack research collaboration platform enabling paper publishing, AI-assisted peer reviews, and context-aware research chat using Retrieval-Augmented Generation (RAG). Supports real-time collaboration and semantic search across academic documents for efficient knowledge discovery.  
+**Stack:** Next.js 14 · TypeScript · FastAPI · LangChain · PostgreSQL (pgvector) · WebSockets · Docker · Google Cloud AI
+
+👉 `github.com/ujjwalks9/ResPlanet`
+
 ### **🔍 CodeDrishti – AI Code Review & Quality Analysis**
 A production-oriented platform that provides automated code review, security insights, performance checks, and LLM-powered documentation/test generation.  
 **Stack:** Spring Boot · FastAPI · LangChain · Redis Queue · PostgreSQL
@@ -29,19 +36,11 @@ A multi-node distributed system for executing compute-heavy tasks using TCP/UDP 
 
 ---
 
-### **📡 Klype (Wise Mango)**  
-AI-driven content automation and creator intelligence with optimized LLM inference pipelines (LoRA, DPO, RAG).  
-**Impact:** Reduced inference latency by **30–35%**, lowered API cost by **40%**.  
-*(Internal / demo repos available)*
-
----
-
 ## 💼 Experience
 ### **Wise Mango Inc — Full Stack Developer Intern**  
 **May 2025 – Jul 2025**  
 - Engineered end-to-end LLM workflows with RAG, LoRA, DPO, and content automation pipelines.  
 - Reduced latency & API cost significantly through optimized inference strategies.  
-- Built product features used by 300–500 creators during beta.
 
 ### **Kitchain AI — Software Developer Intern**  
 **Jan 2025 – Mar 2025**  

@@ -74,13 +74,13 @@ Git · Linux · Kafka · Streamlit · n8n · BeautifulSoup
 ## 🎓 Education
 **B.Tech — Computer Science & Engineering**  
 Indian Institute of Information Technology, Kalyani  
-**CGPA:** 9.01 (Final Year)
+**CGPA:** 9.14 (Final Year)
 
 ---
 
 ## 🏆 Achievements
 - **Flipkart GRID 7.0 – National Semi-finalist**  
-- **LeetCode Contest Rating: 1768** (Top percentile) with 500+ problems solved  
+- **LeetCode Contest Rating: 1873(Knight)** (Top 5 %) with 500+ problems solved  
 - **NTSE Qualified**  
 - Certified in **Complete Data Science Training** (365 Careers)
 
